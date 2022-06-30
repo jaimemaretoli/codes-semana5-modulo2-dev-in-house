@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{1B11B5F2-851E-4398-A7AD-DC86971AB6F3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exemplo1AulaHerancaPolimorfismo/Program.cs">
+    <Files>
+      <File FileName="exemplo1AulaHerancaPolimorfismo/Program.cs" Line="13" Column="34" />
+      <File FileName="exemplo1AulaHerancaPolimorfismo/Funcionario.cs" Line="21" Column="23" />
+      <File FileName="exemplo1AulaHerancaPolimorfismo/FuncionarioNivel1.cs" Line="25" Column="49" />
+      <File FileName="exemplo1AulaHerancaPolimorfismo/FuncionarioNivel2.cs" Line="22" Column="6" />
+      <File FileName="exemplo1AulaHerancaPolimorfismo/FuncionarioNivel3.cs" Line="20" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exemplo1AulaHerancaPolimorfismo" expanded="True">
+            <Node name="exemplo1AulaHerancaPolimorfismo" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exemplo1AulaHerancaPolimorfismo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

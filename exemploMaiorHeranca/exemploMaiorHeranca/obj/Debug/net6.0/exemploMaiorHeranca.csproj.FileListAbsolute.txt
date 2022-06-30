@@ -1,0 +1,15 @@
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/bin/Debug/net6.0/exemploMaiorHeranca
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/bin/Debug/net6.0/exemploMaiorHeranca.deps.json
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/bin/Debug/net6.0/exemploMaiorHeranca.runtimeconfig.json
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/bin/Debug/net6.0/exemploMaiorHeranca.dll
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/bin/Debug/net6.0/exemploMaiorHeranca.pdb
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/obj/Debug/net6.0/exemploMaiorHeranca.csproj.AssemblyReference.cache
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/obj/Debug/net6.0/exemploMaiorHeranca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/obj/Debug/net6.0/exemploMaiorHeranca.AssemblyInfoInputs.cache
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/obj/Debug/net6.0/exemploMaiorHeranca.AssemblyInfo.cs
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/obj/Debug/net6.0/exemploMaiorHeranca.csproj.CoreCompileInputs.cache
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/obj/Debug/net6.0/exemploMaiorHeranca.dll
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/obj/Debug/net6.0/refint/exemploMaiorHeranca.dll
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/obj/Debug/net6.0/exemploMaiorHeranca.pdb
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/obj/Debug/net6.0/exemploMaiorHeranca.genruntimeconfig.cache
+/Users/maretoli/Projects/exemploMaiorHeranca/exemploMaiorHeranca/obj/Debug/net6.0/ref/exemploMaiorHeranca.dll

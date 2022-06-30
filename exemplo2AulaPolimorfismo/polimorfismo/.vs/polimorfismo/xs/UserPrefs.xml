@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5A867C0E-85C0-4BFE-8A8B-FB18590E0079}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="polimorfismo/Imposto.cs">
+    <Files>
+      <File FileName="polimorfismo/Program.cs" Line="25" Column="47" />
+      <File FileName="polimorfismo/Imposto.cs" Line="25" Column="1" />
+      <File FileName="polimorfismo/Gerente.cs" Line="14" Column="37" />
+      <File FileName="polimorfismo/Atendente.cs" Line="11" Column="55" />
+      <File FileName="polimorfismo/Estagiario.cs" Line="4" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="polimorfismo" expanded="True">
+            <Node name="polimorfismo" expanded="True">
+              <Node name="Imposto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.polimorfismo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/bin/Debug/net6.0/tratamentoExcecoes
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/bin/Debug/net6.0/tratamentoExcecoes.deps.json
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/bin/Debug/net6.0/tratamentoExcecoes.runtimeconfig.json
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/bin/Debug/net6.0/tratamentoExcecoes.dll
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/bin/Debug/net6.0/tratamentoExcecoes.pdb
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/obj/Debug/net6.0/tratamentoExcecoes.csproj.AssemblyReference.cache
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/obj/Debug/net6.0/tratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/obj/Debug/net6.0/tratamentoExcecoes.AssemblyInfoInputs.cache
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/obj/Debug/net6.0/tratamentoExcecoes.AssemblyInfo.cs
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/obj/Debug/net6.0/tratamentoExcecoes.csproj.CoreCompileInputs.cache
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/obj/Debug/net6.0/tratamentoExcecoes.dll
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/obj/Debug/net6.0/refint/tratamentoExcecoes.dll
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/obj/Debug/net6.0/tratamentoExcecoes.pdb
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/obj/Debug/net6.0/tratamentoExcecoes.genruntimeconfig.cache
+/Users/maretoli/Projects/tratamentoExcecoes/tratamentoExcecoes/obj/Debug/net6.0/ref/tratamentoExcecoes.dll

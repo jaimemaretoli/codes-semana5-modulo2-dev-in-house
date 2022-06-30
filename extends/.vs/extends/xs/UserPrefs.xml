@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{932E58DE-C8FE-41A5-80BF-8B81F3BA3E1F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="extends/Program.cs">
+    <Files>
+      <File FileName="extends/Program.cs" Line="8" Column="4" />
+      <File FileName="extends/Entities/EmptyClass.cs" Line="15" Column="64" />
+      <File FileName="extends/Entities/EmptyClass.cs" Line="8" Column="39" />
+      <File FileName="extends/Entities/ContaPoupanca.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="extends" expanded="True">
+            <Node name="extends" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.extends PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B0A477D0-6E77-4CBE-92A7-F7CD42E54D8B}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exemplo2AulaPolimorfismo/Program.cs">
+    <Files>
+      <File FileName="exemplo2AulaPolimorfismo/Program.cs" Line="35" Column="34" />
+      <File FileName="exemplo2AulaPolimorfismo/Imposto.cs" Line="15" Column="22" />
+      <File FileName="exemplo2AulaPolimorfismo/Gerente.cs" Line="12" Column="52" />
+      <File FileName="exemplo2AulaPolimorfismo/Atendente.cs" Line="14" Column="50" />
+      <File FileName="exemplo2AulaPolimorfismo/Estagiario.cs" Line="15" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exemplo2AulaPolimorfismo" expanded="True">
+            <Node name="exemplo2AulaPolimorfismo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exemplo2AulaPolimorfismo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

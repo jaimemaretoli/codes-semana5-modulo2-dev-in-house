@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{22339EC9-27A0-442F-A461-99E8FE9CD052}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exemploAulaUpcastingDowncasting/Program.cs">
+    <Files>
+      <File FileName="exemploAulaUpcastingDowncasting/Program.cs" Line="17" Column="1" />
+      <File FileName="exemploAulaUpcastingDowncasting/Forma.cs" Line="2" Column="1" />
+      <File FileName="exemploAulaUpcastingDowncasting/Circulo.cs" Line="16" Column="3" />
+      <File FileName="exemploAulaUpcastingDowncasting/Quadrado.cs" Line="17" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exemploAulaUpcastingDowncasting" expanded="True">
+            <Node name="exemploAulaUpcastingDowncasting" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exemploAulaUpcastingDowncasting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

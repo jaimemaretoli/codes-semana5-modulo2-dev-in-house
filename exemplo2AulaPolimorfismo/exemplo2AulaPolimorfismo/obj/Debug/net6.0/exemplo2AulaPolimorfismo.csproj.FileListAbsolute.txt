@@ -1,0 +1,15 @@
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/bin/Debug/net6.0/exemplo2AulaPolimorfismo
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/bin/Debug/net6.0/exemplo2AulaPolimorfismo.deps.json
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/bin/Debug/net6.0/exemplo2AulaPolimorfismo.runtimeconfig.json
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/bin/Debug/net6.0/exemplo2AulaPolimorfismo.dll
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/bin/Debug/net6.0/exemplo2AulaPolimorfismo.pdb
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/obj/Debug/net6.0/exemplo2AulaPolimorfismo.csproj.AssemblyReference.cache
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/obj/Debug/net6.0/exemplo2AulaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/obj/Debug/net6.0/exemplo2AulaPolimorfismo.AssemblyInfoInputs.cache
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/obj/Debug/net6.0/exemplo2AulaPolimorfismo.AssemblyInfo.cs
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/obj/Debug/net6.0/exemplo2AulaPolimorfismo.csproj.CoreCompileInputs.cache
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/obj/Debug/net6.0/exemplo2AulaPolimorfismo.dll
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/obj/Debug/net6.0/refint/exemplo2AulaPolimorfismo.dll
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/obj/Debug/net6.0/exemplo2AulaPolimorfismo.pdb
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/obj/Debug/net6.0/exemplo2AulaPolimorfismo.genruntimeconfig.cache
+/Users/maretoli/Projects/exemplo2AulaPolimorfismo/exemplo2AulaPolimorfismo/obj/Debug/net6.0/ref/exemplo2AulaPolimorfismo.dll

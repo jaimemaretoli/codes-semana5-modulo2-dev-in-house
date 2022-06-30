@@ -1,0 +1,15 @@
+/Users/maretoli/Projects/extends/extends/bin/Debug/net6.0/extends
+/Users/maretoli/Projects/extends/extends/bin/Debug/net6.0/extends.deps.json
+/Users/maretoli/Projects/extends/extends/bin/Debug/net6.0/extends.runtimeconfig.json
+/Users/maretoli/Projects/extends/extends/bin/Debug/net6.0/extends.dll
+/Users/maretoli/Projects/extends/extends/bin/Debug/net6.0/extends.pdb
+/Users/maretoli/Projects/extends/extends/obj/Debug/net6.0/extends.csproj.AssemblyReference.cache
+/Users/maretoli/Projects/extends/extends/obj/Debug/net6.0/extends.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretoli/Projects/extends/extends/obj/Debug/net6.0/extends.AssemblyInfoInputs.cache
+/Users/maretoli/Projects/extends/extends/obj/Debug/net6.0/extends.AssemblyInfo.cs
+/Users/maretoli/Projects/extends/extends/obj/Debug/net6.0/extends.csproj.CoreCompileInputs.cache
+/Users/maretoli/Projects/extends/extends/obj/Debug/net6.0/extends.dll
+/Users/maretoli/Projects/extends/extends/obj/Debug/net6.0/refint/extends.dll
+/Users/maretoli/Projects/extends/extends/obj/Debug/net6.0/extends.pdb
+/Users/maretoli/Projects/extends/extends/obj/Debug/net6.0/extends.genruntimeconfig.cache
+/Users/maretoli/Projects/extends/extends/obj/Debug/net6.0/ref/extends.dll
