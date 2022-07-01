@@ -1,0 +1,15 @@
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/bin/Debug/net6.0/exEncadeamentoTryCatch
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/bin/Debug/net6.0/exEncadeamentoTryCatch.deps.json
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/bin/Debug/net6.0/exEncadeamentoTryCatch.runtimeconfig.json
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/bin/Debug/net6.0/exEncadeamentoTryCatch.dll
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/bin/Debug/net6.0/exEncadeamentoTryCatch.pdb
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/obj/Debug/net6.0/exEncadeamentoTryCatch.csproj.AssemblyReference.cache
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/obj/Debug/net6.0/exEncadeamentoTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/obj/Debug/net6.0/exEncadeamentoTryCatch.AssemblyInfoInputs.cache
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/obj/Debug/net6.0/exEncadeamentoTryCatch.AssemblyInfo.cs
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/obj/Debug/net6.0/exEncadeamentoTryCatch.csproj.CoreCompileInputs.cache
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/obj/Debug/net6.0/exEncadeamentoTryCatch.dll
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/obj/Debug/net6.0/refint/exEncadeamentoTryCatch.dll
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/obj/Debug/net6.0/exEncadeamentoTryCatch.pdb
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/obj/Debug/net6.0/exEncadeamentoTryCatch.genruntimeconfig.cache
+/Users/maretoli/Projects/disponibilizacao/exEncadeamentoTryCatch/exEncadeamentoTryCatch/obj/Debug/net6.0/ref/exEncadeamentoTryCatch.dll
