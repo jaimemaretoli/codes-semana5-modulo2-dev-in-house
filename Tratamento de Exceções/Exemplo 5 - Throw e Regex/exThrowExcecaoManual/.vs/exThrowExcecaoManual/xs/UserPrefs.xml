@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6A70A337-C43D-4DDC-87D4-EF0563069E56}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="exThrowExcecaoManual/Program.cs">
+    <Files>
+      <File FileName="exThrowExcecaoManual/Program.cs" Line="10" Column="60" />
+      <File FileName="exThrowExcecaoManual/Estudante.cs" Line="25" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exThrowExcecaoManual" expanded="True">
+            <Node name="exThrowExcecaoManual" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exThrowExcecaoManual PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
