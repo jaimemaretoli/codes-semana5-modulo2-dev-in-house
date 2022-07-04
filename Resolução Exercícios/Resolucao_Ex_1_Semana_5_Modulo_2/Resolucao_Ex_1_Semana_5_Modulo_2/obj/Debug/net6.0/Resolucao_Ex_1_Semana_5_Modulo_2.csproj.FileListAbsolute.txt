@@ -1,0 +1,15 @@
+/Users/maretoli/Projects/testeEx1/testeEx1/bin/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2
+/Users/maretoli/Projects/testeEx1/testeEx1/bin/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.deps.json
+/Users/maretoli/Projects/testeEx1/testeEx1/bin/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.runtimeconfig.json
+/Users/maretoli/Projects/testeEx1/testeEx1/bin/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.dll
+/Users/maretoli/Projects/testeEx1/testeEx1/bin/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.pdb
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.csproj.AssemblyReference.cache
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.AssemblyInfoInputs.cache
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.AssemblyInfo.cs
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.csproj.CoreCompileInputs.cache
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.dll
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/refint/Resolucao_Ex_1_Semana_5_Modulo_2.dll
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.pdb
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/Resolucao_Ex_1_Semana_5_Modulo_2.genruntimeconfig.cache
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/ref/Resolucao_Ex_1_Semana_5_Modulo_2.dll

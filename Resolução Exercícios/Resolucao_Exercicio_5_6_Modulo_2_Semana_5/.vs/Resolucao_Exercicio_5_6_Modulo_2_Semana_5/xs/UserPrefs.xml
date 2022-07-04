@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{43FED0C8-D51A-48E5-BB9A-C98DF90BB087}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Resolucao__Exercicio__5__6__Modulo__2__Semana__5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Resolucao_Exercicio_5_Modulo_2_Semana_5/Program.cs">
+    <Files>
+      <File FileName="Resolucao_Exercicio_5_Modulo_2_Semana_5/Program.cs" Line="13" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Resolucao_Exercicio_5_6_Modulo_2_Semana_5" expanded="True" selected="True">
+            <Node name="Resolucao_Exercicio_5_6_Modulo_2_Semana_5" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

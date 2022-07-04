@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C920DF51-EBA3-44F7-9CA1-D07DABF5A3BF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.testeExercicioCartaoDuvidaAluno PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testeExercicioCartaoDuvidaAluno/Program.cs">
+    <Files>
+      <File FileName="testeExercicioCartaoDuvidaAluno/Program.cs" Line="12" Column="60" />
+      <File FileName="testeExercicioCartaoDuvidaAluno/Cartao.cs" Line="22" Column="78" />
+      <File FileName="testeExercicioCartaoDuvidaAluno/CartaVR.cs" Line="10" Column="73" />
+      <File FileName="testeExercicioCartaoDuvidaAluno/CartaoVA.cs" Line="12" Column="10" />
+      <File FileName="testeExercicioCartaoDuvidaAluno/CartaoVT.cs" Line="12" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testeExercicioCartaoDuvidaAluno" expanded="True">
+            <Node name="testeExercicioCartaoDuvidaAluno" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

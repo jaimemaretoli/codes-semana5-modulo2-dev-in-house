@@ -13,3 +13,18 @@
 /Users/maretoli/Projects/disponibilizacao/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/exThrowExcecaoManual.pdb
 /Users/maretoli/Projects/disponibilizacao/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/exThrowExcecaoManual.genruntimeconfig.cache
 /Users/maretoli/Projects/disponibilizacao/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/ref/exThrowExcecaoManual.dll
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/bin/Debug/net6.0/exThrowExcecaoManual
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/bin/Debug/net6.0/exThrowExcecaoManual.deps.json
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/bin/Debug/net6.0/exThrowExcecaoManual.runtimeconfig.json
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/bin/Debug/net6.0/exThrowExcecaoManual.dll
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/bin/Debug/net6.0/exThrowExcecaoManual.pdb
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/exThrowExcecaoManual.csproj.AssemblyReference.cache
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/exThrowExcecaoManual.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/exThrowExcecaoManual.AssemblyInfoInputs.cache
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/exThrowExcecaoManual.AssemblyInfo.cs
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/exThrowExcecaoManual.csproj.CoreCompileInputs.cache
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/exThrowExcecaoManual.dll
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/refint/exThrowExcecaoManual.dll
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/exThrowExcecaoManual.pdb
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/exThrowExcecaoManual.genruntimeconfig.cache
+/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/Debug/net6.0/ref/exThrowExcecaoManual.dll

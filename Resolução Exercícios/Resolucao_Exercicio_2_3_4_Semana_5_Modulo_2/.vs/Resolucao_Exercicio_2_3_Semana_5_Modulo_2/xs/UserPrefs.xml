@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C920DF51-EBA3-44F7-9CA1-D07DABF5A3BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testeExercicioCartaoDuvidaAluno/Program.cs">
+    <Files>
+      <File FileName="testeExercicioCartaoDuvidaAluno/Program.cs" Line="43" Column="51" />
+      <File FileName="testeExercicioCartaoDuvidaAluno/Cartao.cs" Line="11" Column="16" />
+      <File FileName="testeExercicioCartaoDuvidaAluno/CartaVR.cs" Line="14" Column="42" />
+      <File FileName="testeExercicioCartaoDuvidaAluno/CartaoVA.cs" Line="17" Column="10" />
+      <File FileName="testeExercicioCartaoDuvidaAluno/CartaoVT.cs" Line="16" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Resolucao_Exercicio_2_3_Semana_5_Modulo_2" expanded="True">
+            <Node name="Resolucao_Exercicio_2_Semana_5_Modulo_2" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Resolucao__Exercicio__2__3__Semana__5__Modulo__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

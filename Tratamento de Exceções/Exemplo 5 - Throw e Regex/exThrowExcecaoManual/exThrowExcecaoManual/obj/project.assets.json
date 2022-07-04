@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maretoli/Projects/disponibilizacao/exThrowExcecaoManual/exThrowExcecaoManual/exThrowExcecaoManual.csproj",
+      "projectUniqueName": "/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/exThrowExcecaoManual.csproj",
       "projectName": "exThrowExcecaoManual",
-      "projectPath": "/Users/maretoli/Projects/disponibilizacao/exThrowExcecaoManual/exThrowExcecaoManual/exThrowExcecaoManual.csproj",
+      "projectPath": "/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/exThrowExcecaoManual.csproj",
       "packagesPath": "/Users/maretoli/.nuget/packages/",
-      "outputPath": "/Users/maretoli/Projects/disponibilizacao/exThrowExcecaoManual/exThrowExcecaoManual/obj/",
+      "outputPath": "/Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maretoli/.nuget/NuGet/NuGet.Config"

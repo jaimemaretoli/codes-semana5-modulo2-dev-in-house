@@ -1,0 +1,15 @@
+/Users/maretoli/Projects/testeEx1/testeEx1/bin/Debug/net6.0/testeEx1
+/Users/maretoli/Projects/testeEx1/testeEx1/bin/Debug/net6.0/testeEx1.deps.json
+/Users/maretoli/Projects/testeEx1/testeEx1/bin/Debug/net6.0/testeEx1.runtimeconfig.json
+/Users/maretoli/Projects/testeEx1/testeEx1/bin/Debug/net6.0/testeEx1.dll
+/Users/maretoli/Projects/testeEx1/testeEx1/bin/Debug/net6.0/testeEx1.pdb
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/testeEx1.csproj.AssemblyReference.cache
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/testeEx1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/testeEx1.AssemblyInfoInputs.cache
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/testeEx1.AssemblyInfo.cs
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/testeEx1.csproj.CoreCompileInputs.cache
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/testeEx1.dll
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/refint/testeEx1.dll
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/testeEx1.pdb
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/testeEx1.genruntimeconfig.cache
+/Users/maretoli/Projects/testeEx1/testeEx1/obj/Debug/net6.0/ref/testeEx1.dll

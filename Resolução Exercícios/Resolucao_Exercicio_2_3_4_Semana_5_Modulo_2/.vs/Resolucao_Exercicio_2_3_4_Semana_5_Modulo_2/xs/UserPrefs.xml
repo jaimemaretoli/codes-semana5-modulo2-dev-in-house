@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C920DF51-EBA3-44F7-9CA1-D07DABF5A3BF}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Resolucao_Exercicio_2_3_4_Semana_5_Modulo_2" expanded="True">
+            <Node name="Resolucao_Exercicio_2_3_4_Semana_5_Modulo_2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="CartaoVT.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Resolucao__Exercicio__2__3__4__Semana__5__Modulo__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

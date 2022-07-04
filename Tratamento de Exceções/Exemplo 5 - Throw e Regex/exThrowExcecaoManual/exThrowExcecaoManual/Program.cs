@@ -7,7 +7,7 @@ namespace exThrowExcecaoManual
     {
         public static void Main(string[] args)
         {
-            Estudante objetoEstudante = new Estudante("Joao", 1); // null, para gerar a exception
+            Estudante objetoEstudante = new Estudante("Joao", "1-"); // null, para gerar a exception
 
             try
             {
@@ -34,11 +34,17 @@ namespace exThrowExcecaoManual
 
         public static void ValidacaoEstudante(Estudante objetoEstudante)
         {
-            Regex regex = new Regex("^[a-zA-Z]+$");
+            Regex regexLetras = new Regex("^[a-zA-Z]+$");
+            Regex regexNumeros = new Regex("^[0-9]+$");
 
-            if (!regex.IsMatch(objetoEstudante.nome))
+            if (!regexLetras.IsMatch(objetoEstudante.nome))
             {
                 throw new NomeEstudanteInvalidoException(objetoEstudante.nome);
+            }
+
+            if (!regexNumeros.IsMatch(objetoEstudante.id))
+            {
+                throw new IdEstudanteInvalidoException(objetoEstudante.id);
             }
         }
     }

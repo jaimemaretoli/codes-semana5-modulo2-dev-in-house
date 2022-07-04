@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = exThrowExcecaoManual
-build_property.ProjectDir = /Users/maretoli/Projects/disponibilizacao/exThrowExcecaoManual/exThrowExcecaoManual/
+build_property.ProjectDir = /Users/maretoli/Documents/GitHub/codes-semana5-modulo2-dev-in-house/Tratamento de Exceções/Exemplo 5 - Throw e Regex/exThrowExcecaoManual/exThrowExcecaoManual/
